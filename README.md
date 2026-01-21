@@ -1,6 +1,6 @@
-# CodeAlpha_BooksToScrape_WebScraping
+# CodeAlpha_Task1_WebScraping
 
-# CodeAlpha Task 1 - Web Scraping Project
+# CodeAlpha Task 1 - Web Scraping Project (Books To Scrape)
 
 ## Project Name
 Books to Scrape Dataset Collection
