@@ -27,5 +27,11 @@ https://books.toscrape.com/
 ## Output
 - books_to_scrape_dataset.csv
 
+## How to Run
+1. Open the notebook `books_to_scrape_scraper.ipynb`.
+2. Run each cell in order.
+3. The scraping outputs will be saved as .csv files.
+
+
 ## Conclusion
 This project helped me understand real-world data collection using web scraping, handling pagination, and exporting structured datasets for analysis.
